@@ -8,4 +8,6 @@ $ npm install
 $ npm start
 ```
 
-Webpack dev server @ [localhost:3000](http://localhost:3000)
+Webpack dev server: [localhost:3000](http://localhost:3000)
+
+Firebase hosting url: https://angularfire2-firefox.firebaseapp.com
