@@ -9,10 +9,10 @@ import {
 export const FIREBASE_APP_PROVIDERS: any[] = [
   FIREBASE_PROVIDERS,
   defaultFirebase({
-    apiKey: 'AIzaSyCEJnR5qZnjgj8XRBUgisS8isU_7Gzvswc',
-    authDomain: 'ng2-todo-85493.firebaseapp.com',
-    databaseURL: 'https://ng2-todo-85493.firebaseio.com',
-    storageBucket: 'ng2-todo-85493.appspot.com'
+    apiKey: 'AIzaSyDy8ok5dnvyD2JBnL9OHtD1SilmTMoiAUw',
+    authDomain: 'angularfire2-firefox.firebaseapp.com',
+    databaseURL: 'https://angularfire2-firefox.firebaseio.com',
+    storageBucket: 'angularfire2-firefox.appspot.com'
   }),
   firebaseAuthConfig({
     method: AuthMethods.Popup,
